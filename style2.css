@@ -50,10 +50,8 @@ a{
 }
 body{
     padding: 0;
-    width: 100px;
-    height: 100px;
     margin: 0;
-    background: url(imagenes/Jacks.jpeg);
+    background: url(imagenes/Jacks2.jpeg);
     background-size: cover;
     background-position: center;
 }

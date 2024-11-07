@@ -1,7 +1,7 @@
 h2{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 36px;
+    font-size: 45px;
     text-align: center;
     background-color: burlywood;
     width: 60%;
@@ -14,7 +14,7 @@ h2{
 p{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 32px;
     text-align: center;
     background-color: beige;
     width: 65%;
@@ -51,7 +51,7 @@ a{
 body{
     padding: 0;
     margin: 0;
-    background: url(imagenes/Jacks.jpeg);
-    background-size: cover;
+    background: url(imagenes/Jacks2.jpeg);
+    background-size: contain;
     background-position: center;
 }
