@@ -49,7 +49,7 @@ a{
     line-height: 8;
 }
 body{
-    height: 50px;
+    height: auto;
     padding: 0;
     margin: 0;
     background: url(imagenes/Jacks2.jpeg);
