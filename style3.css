@@ -17,7 +17,7 @@ p{
     font-size: 32px;
     text-align: center;
     background-color: beige;
-    width: 65%;
+    width: 85%;
     height: 30%;
     padding: 10px;
     margin: auto;
@@ -28,7 +28,7 @@ p{
 div{
     color: red;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 22px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     line-height: 4.5;
@@ -53,6 +53,7 @@ body{
     margin: 0;
     background: url(imagenes/Jacs3.jpeg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
+    background-color: black;
 }
