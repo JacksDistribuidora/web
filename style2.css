@@ -53,6 +53,7 @@ body{
     margin: 0;
     background: url(imagenes/Jacs3.jpeg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
